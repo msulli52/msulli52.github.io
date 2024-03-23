@@ -11,8 +11,8 @@
 
   <p><a href="https://niemierlab.nd.edu/">Summer 2024 Transformer Research</a></p>
   <p><a href="https://www.linkedin.com/feed/update/urn:li:activity:7092565379205492736/">Summer 2023 Drone Response Research</a></p>
-  <p><a href="https://theshirt.nd.edu/">The Shirt Project Vice President</p>
-  <p>More details on <a href="https://www.linkedin.com/in/molly-sullivan-nd/">LinkedIn! </p>
+  <p><a href="https://theshirt.nd.edu/">The Shirt Project Vice President</a></p>
+  <p>More details on <a href="https://www.linkedin.com/in/molly-sullivan-nd/">LinkedIn!</a></p>
 
   <h1>Contact</h1>
   <p>msulli52@nd.edu</p>
