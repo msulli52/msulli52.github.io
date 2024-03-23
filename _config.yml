@@ -1,1 +1,11 @@
+title: My Personal Website
+email: myemail@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  This is my personal website hosted on GitHub Pages.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: yourhandle
+github_username:  yourusername
 
+# Build settings
+theme: minima
