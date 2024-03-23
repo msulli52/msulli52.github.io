@@ -1,7 +1,7 @@
 
 <div align="center">
   
-  <img src="MollySullivanHeadshot.jpg" alt="Molly Sullivan" width="500"/>
+  <img src="MollySullivanHeadshot.jpg" alt="Molly Sullivan" width="300"/>
 
   <h1>About</h1>
 
